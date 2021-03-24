@@ -1,6 +1,6 @@
 
 
-   ### Hello i'm ashutosh
+   ### Hello i'm Ashutosh
 -  I’m currently working on data forensic
 -  I’m currently learning cyber security
 -  I’m looking to collaborate on digital forensic
